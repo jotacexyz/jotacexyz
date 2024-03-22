@@ -1,8 +1,11 @@
-- 👋 Olá, sou @jotacexyz
+👋 Olá, sou Júlio César | @jotacexyz
+
+Informações:
+
+- 📫 Como entrar em contato comigo https://t.me/jotacexyz
 - 👀 Estou interessado em lua, git, phytom, SQL e MySQL
 - 🌱 Atualmente estou aprendendo lua, git
 - 💞️ Procuro colaborar em lua, git
-- 📫 Como entrar em contato comigo t.me/jotacexyz
 - 😄 Pronomes: ele/dele
 - ⚡ Curiosidade: Aprender cada dia Mais!
 
